@@ -15,9 +15,7 @@ body.running span.score {
 button, .score {
 	font-size : 18px;
 }
-.scoreRunning {
-	color: white;
-}
+
 #names span {
 	display : inline-block;
 	width : 140px;
